@@ -19,11 +19,11 @@ h2{
 
 
 .countries{
-  max-width: 1180px;
+  max-width: 1240px;
   margin: 20px auto;
   margin: 0 auto;
   display:grid;
-  grid-template-columns: repeat(6,1fr);
+  grid-template-columns: repeat(7,1fr);
 
 }
 .country-div{
